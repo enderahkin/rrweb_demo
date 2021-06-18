@@ -1,12 +1,3 @@
-/*
- * @Author: ZHOUWEN
- * @Date: 2021-05-28 10:01:22
- * @LastEditTime: 2021-06-18 17:16:17
- * @LastEditors: ZHOUWEN
- * @Description: 
- * @fileheader.Author: ZHOUWEN
- * @fileheader.LastModifiedBy: ZHOUWEN
- */
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
